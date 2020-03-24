@@ -1,0 +1,14 @@
+h1, h2 {
+  color: green;
+  text-align: center;
+}
+
+ul {
+  color: lightgreen;
+  line-height: 40px;
+}
+
+p {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
