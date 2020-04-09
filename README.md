@@ -1,6 +1,6 @@
-# Future Vacation Webpage
+# Gemma's Webpage
 
-#### Bootstrap Exercise for Epicodus, 04.01.2020
+#### HTML & CSS Exercise for Epicodus, 03.2020
 
 #### By Brittany Lindgren
 
